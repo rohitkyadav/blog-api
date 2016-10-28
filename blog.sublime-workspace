@@ -1,0 +1,1126 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"us",
+				"user_obj"
+			],
+			[
+				"user",
+				"user_obj"
+			],
+			[
+				"h",
+				"HTTP_400_BAD_REQUEST"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"mar",
+				"marks"
+			],
+			[
+				"email",
+				"email2"
+			],
+			[
+				"em",
+				"email2"
+			],
+			[
+				"use",
+				"user_obj"
+			],
+			[
+				"U",
+				"UserCreateSerializer"
+			],
+			[
+				"con",
+				"get_content_object_url"
+			],
+			[
+				"D",
+				"DestroyModelMixin"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"comment",
+				"Comment"
+			],
+			[
+				"pare",
+				"parent_obj"
+			],
+			[
+				"val",
+				"validated_data"
+			],
+			[
+				"g",
+				"get_user_model"
+			],
+			[
+				"par",
+				"parent_obj"
+			],
+			[
+				"ob",
+				"object_id"
+			],
+			[
+				"per",
+				"percentage"
+			],
+			[
+				"s",
+				"status"
+			],
+			[
+				"model",
+				"model_qs"
+			],
+			[
+				"mode",
+				"model_type"
+			],
+			[
+				"Comm",
+				"CommentCreateSerializer"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"Co",
+				"CommentCreateerializer"
+			],
+			[
+				"mo",
+				"model_type"
+			],
+			[
+				"models",
+				"models"
+			],
+			[
+				"q",
+				"queryset_list"
+			],
+			[
+				"I",
+				"IsOwnerOrReadOnly"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"i",
+				"IsAuthenticated"
+			],
+			[
+				"Pos",
+				"PostSerializer"
+			],
+			[
+				"read",
+				"read_time_min"
+			],
+			[
+				"rea",
+				"read_time_minutes"
+			],
+			[
+				"count",
+				"count_words"
+			],
+			[
+				"html",
+				"html_string"
+			],
+			[
+				"cont",
+				"content_type"
+			],
+			[
+				"Commen",
+				"CommentForm"
+			],
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"parent",
+				"parent_qs"
+			],
+			[
+				"parent_",
+				"parent_id"
+			],
+			[
+				"Ht",
+				"HttpResponseRedirect"
+			],
+			[
+				"obje",
+				"objects"
+			],
+			[
+				"comm",
+				"CommentManager"
+			],
+			[
+				"Com",
+				"Comment"
+			],
+			[
+				"cle",
+				"clean_parent_id"
+			],
+			[
+				"obj",
+				"obj_id"
+			],
+			[
+				"COmm",
+				"CommentManager"
+			],
+			[
+				"content",
+				"content_type"
+			],
+			[
+				"co",
+				"comments"
+			],
+			[
+				"conten",
+				"content_type"
+			],
+			[
+				"conte",
+				"contentItem"
+			],
+			[
+				"mark",
+				"markedContent"
+			],
+			[
+				"titl",
+				"titleItem"
+			],
+			[
+				"tit",
+				"titleValue"
+			],
+			[
+				"get_o",
+				"get_object"
+			],
+			[
+				"usr",
+				"username"
+			],
+			[
+				"get_obj",
+				"get_object_or_404"
+			],
+			[
+				"sale",
+				"sale_price"
+			],
+			[
+				"ratin",
+				"rating_obj"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"product",
+				"productrating_set"
+			],
+			[
+				"rai",
+				"ratings"
+			],
+			[
+				"rat",
+				"ratings"
+			],
+			[
+				"pro",
+				"product_obj"
+			],
+			[
+				"ra",
+				"rating_obj"
+			],
+			[
+				"Pr",
+				"ProductRating"
+			],
+			[
+				"Mu",
+				"MultipleObjectsReturned"
+			],
+			[
+				"Pro",
+				"ProductRating"
+			],
+			[
+				"inpu",
+				"inputValue"
+			],
+			[
+				"tra",
+				"transactions_today"
+			],
+			[
+				"today",
+				"today_max"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"get_",
+				"get_transactions"
+			],
+			[
+				"get",
+				"get_transactions"
+			],
+			[
+				"is",
+				"is_active"
+			],
+			[
+				"Sell",
+				"SellerAccount"
+			],
+			[
+				"dow",
+				"download_link"
+			],
+			[
+				"w",
+				"wrap"
+			],
+			[
+				"http",
+				"Http404"
+			],
+			[
+				"produ",
+				"product_obj"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ran",
+				"random_products"
+			],
+			[
+				"po",
+				"products"
+			],
+			[
+				"to",
+				"top_tags_idless"
+			],
+			[
+				"Tag",
+				"TagView"
+			],
+			[
+				"new",
+				"new_view"
+			],
+			[
+				"Prod",
+				"ProductDetailView"
+			],
+			[
+				"ana",
+				"analytic_obj"
+			],
+			[
+				"an",
+				"analytic_obj"
+			],
+			[
+				"tag",
+				"tag_set"
+			],
+			[
+				"tags",
+				"tags_list"
+			],
+			[
+				"in",
+				"initial"
+			],
+			[
+				"hd_",
+				"hd_max"
+			],
+			[
+				"hd",
+				"hd_created"
+			],
+			[
+				"temp",
+				"temp_loc"
+			],
+			[
+				"thu",
+				"thumb_file"
+			],
+			[
+				"Tu",
+				"Thumbnail"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"mim",
+				"mimetype"
+			],
+			[
+				"file",
+				"filepath"
+			],
+			[
+				"Htt",
+				"HttpResponse"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"des",
+				"decorators"
+			],
+			[
+				"form",
+				"form_valid"
+			],
+			[
+				"slug",
+				"slugify"
+			],
+			[
+				"sug",
+				"slugify"
+			],
+			[
+				"Upda",
+				"UpdateView"
+			],
+			[
+				"Crea",
+				"CreateView"
+			],
+			[
+				"mu",
+				"MultiSlugMixin"
+			],
+			[
+				"Product",
+				"ProductDetailView"
+			],
+			[
+				"ht",
+				"Http404"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"object",
+				"object_id"
+			],
+			[
+				"option",
+				"option1"
+			],
+			[
+				"var",
+				"variation"
+			],
+			[
+				"cat",
+				"categories"
+			],
+			[
+				"cateo",
+				"category"
+			],
+			[
+				"mod",
+				"models"
+			],
+			[
+				"order",
+				"order_id"
+			],
+			[
+				"cus",
+				"customer_id〔variable〕"
+			],
+			[
+				"user_",
+				"user_check_id"
+			],
+			[
+				"custo",
+				"customer_id"
+			],
+			[
+				"User",
+				"UserCheckout〔module〕"
+			],
+			[
+				"user_check",
+				"user_checkout_id"
+			],
+			[
+				"bra",
+				"braintree_id"
+			],
+			[
+				"dec",
+				"decorators〔module〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/blog/settings.py",
+			"settings":
+			{
+				"buffer_size": 5331,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/blog/urls.py",
+			"settings":
+			{
+				"buffer_size": 1843,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/comments/api/views.py",
+			"settings":
+			{
+				"buffer_size": 2958,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"",
+				"Convert Case: Lower Case"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/rohit/Desktop/blog-api",
+		"/home/rohit/Desktop/blog-api/src",
+		"/home/rohit/Desktop/blog-api/src/accounts",
+		"/home/rohit/Desktop/blog-api/src/accounts/api",
+		"/home/rohit/Desktop/blog-api/src/blog",
+		"/home/rohit/Desktop/blog-api/src/comments",
+		"/home/rohit/Desktop/blog-api/src/comments/api",
+		"/home/rohit/Desktop/blog-api/src/posts",
+		"/home/rohit/Desktop/blog-api/src/posts/api"
+	],
+	"file_history":
+	[
+		"/home/rohit/Desktop/blog-api/src/accounts/api/views.py",
+		"/home/rohit/Desktop/blog-api/src/posts/api/serializers.py",
+		"/home/rohit/Desktop/blog-api/src/comments/api/serializers.py",
+		"/home/rohit/Desktop/blog-api/src/accounts/api/serializers.py",
+		"/home/rohit/Desktop/blog-api/src/accounts/api/urls.py",
+		"/home/rohit/Desktop/blog-api/src/posts/api/views.py",
+		"/home/rohit/Desktop/blog-api/src/comments/api/views.py",
+		"/home/rohit/Desktop/blog-api/src/comments/api/urls.py",
+		"/home/rohit/Desktop/blog-api/src/blog/urls.py",
+		"/home/rohit/Desktop/resume.html",
+		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rohit_yadav/HCF.py",
+		"/home/rohit/Desktop/HCF.py",
+		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rohit_yadav/pass_q2.py",
+		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rohit_yadav/marks_q1.py",
+		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rohit_yadav/linear_binary.py",
+		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rohit_yadav/fibo.py",
+		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rohit_yadav/diamond.py",
+		"/home/rohit/Desktop/pass_q2.py",
+		"/home/rohit/Desktop/marks.py",
+		"/home/rohit/Desktop/pass.py",
+		"/home/rohit/Desktop/lol.py",
+		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rishabh_jindal/prog-3.py",
+		"/home/rohit/Desktop/Dev.py/Week 1/Student Submissions/sahil_chopra/hello1.py",
+		"/home/rohit/Desktop/diamond.py",
+		"/home/rohit/Desktop/fibo.py",
+		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rishabh_jindal/prog-2.py",
+		"/home/rohit/Desktop/blog-api/src/accounts/api/__init__.py",
+		"/home/rohit/Desktop/blog-api/src/posts/api/pagination.py",
+		"/home/rohit/Desktop/blog-api/src/comments/models.py",
+		"/home/rohit/Desktop/blog-api/src/posts/models.py",
+		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rishabh_jindal/prog1.py",
+		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rishabh_jindal/prog-4.py",
+		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rishabh_jindal/prog-5.py",
+		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rishabh_jindal/prog-6.py",
+		"/home/rohit/Desktop/insta.py",
+		"/home/rohit/Desktop/body.css",
+		"/home/rohit/Desktop/per.py",
+		"/home/rohit/Desktop/blog-api/src/posts/api/permissions.py",
+		"/home/rohit/Desktop/scraping.py",
+		"/home/rohit/Desktop/hack.py",
+		"/home/rohit/Desktop/shh.sh",
+		"/home/rohit/Desktop/hack2.py",
+		"/home/rohit/Desktop/blog-api/src/comments/api/__init__.py",
+		"/home/rohit/Desktop/blog-api/src/posts/api/urls.py",
+		"/home/rohit/Desktop/blog-api/src/blog/settings.py",
+		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/binaryParser/settings.py",
+		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/binaryParser/urls.py",
+		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/ParseApp/urls.py",
+		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/ParseApp/views.py",
+		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/ParseApp/models.py",
+		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/ParseApp/admin.py",
+		"/home/rohit/Desktop/fun.py",
+		"/home/rohit/Desktop/out",
+		"/home/rohit/Desktop/writer.py",
+		"/home/rohit/Desktop/blog-api/src/posts/api/__init__.py",
+		"/home/rohit/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/Users/cfe/Desktop/blog/src/posts/models.py",
+		"/Users/cfe/Desktop/blog/src/posts/utils.py",
+		"/Users/cfe/Desktop/blog/src/posts/views.py",
+		"/Users/cfe/Desktop/blog/src/comments/forms.py",
+		"/Users/cfe/Desktop/blog/src/blog/urls.py",
+		"/Users/cfe/Desktop/blog/src/templates/comment_thread.html",
+		"/Users/cfe/Desktop/blog/src/templates/post_detail.html",
+		"/Users/cfe/Desktop/blog/src/comments/views.py",
+		"/Users/cfe/Desktop/blog/src/comments/urls.py",
+		"/Users/cfe/Desktop/blog/src/comments/models.py",
+		"/Users/cfe/Desktop/blog/README.md",
+		"/Users/cfe/Desktop/blog/src/posts/migrations/0004_post_read_time.py",
+		"/Users/cfe/Desktop/blog/src/templates/base.html",
+		"/Users/cfe/Desktop/blog/src/templates/comments/comment_thread.html",
+		"/Users/cfe/Desktop/blog/src/static/css/base.css",
+		"/Users/cfe/Desktop/blog/src/posts/urls.py",
+		"/Users/cfe/Desktop/blog/src/comments/migrations/0002_comment_parent.py",
+		"/Users/cfe/Desktop/blog/src/posts/forms.py",
+		"/Users/cfe/Desktop/blog/src/templates/post_list.html",
+		"/Users/cfe/Desktop/blog/src/blog/settings.py",
+		"/Users/cfe/Desktop/blog/src/comments/admin.py",
+		"/Users/cfe/Desktop/blog/static_cdn/css/base.css",
+		"/Users/cfe/Desktop/blog/src/templates/post_form.html",
+		"/Users/jmitch/Desktop/blog/src/blog/urls.py",
+		"/Users/jmitch/Desktop/blog/src/blog/settings.py",
+		"/Users/jmitch/Desktop/blog/src/db.sqlite3",
+		"/Users/jmitch/Desktop/blog/src/blog/wsgi.py",
+		"/Users/jmitch/Desktop/blog/README.md",
+		"/Users/jmitch/Desktop/dm/src/products/views.py",
+		"/Users/jmitch/Desktop/dm/src/templates/form.html",
+		"/Users/jmitch/Desktop/dm/src/templates/form_include.html",
+		"/Users/jmitch/Desktop/dm/src/sellers/forms.py",
+		"/Users/jmitch/Desktop/dm/src/templates/base.html",
+		"/Users/jmitch/Desktop/dm/src/digitalmarket/mixins.py",
+		"/Users/jmitch/Desktop/dm/src/templates/products/product_list_snippet.html",
+		"/Users/jmitch/Desktop/dm/src/templates/products/library_list.html",
+		"/Users/jmitch/Desktop/dm/src/products/urls.py",
+		"/Users/jmitch/Desktop/dm/src/templates/products/product_detail.html",
+		"/Users/jmitch/Desktop/dm/src/templates/products/product_list.html",
+		"/Users/jmitch/Desktop/dm/src/products/tests.py",
+		"/Users/jmitch/Desktop/dm/src/products/admin.py",
+		"/Users/jmitch/Desktop/dm/src/sellers/models.py",
+		"/Users/jmitch/Desktop/dm/src/products/models.py",
+		"/Users/jmitch/Desktop/dm/src/templates/dashboard/view.html",
+		"/Users/jmitch/Desktop/dm/src/dashboard/views.py",
+		"/Users/jmitch/Desktop/dm/README.md",
+		"/Users/jmitch/Desktop/dm/src/digitalmarket/urls.py",
+		"/Users/jmitch/Desktop/dm/src/sellers/views.py",
+		"/Users/jmitch/Desktop/dm/src/checkout/views.py",
+		"/Users/jmitch/Desktop/dm.md",
+		"/Users/jmitch/Desktop/dm/src/digitalmarket/settings.py",
+		"/Users/jmitch/Desktop/dm/LICENSE",
+		"/Users/jmitch/Desktop/dm/src/templates/sellers/dashboard.html",
+		"/Users/jmitch/Desktop/dm/src/sellers/mixins.py",
+		"/Users/jmitch/Desktop/dm/src/analytics/models.py",
+		"/Users/jmitch/Desktop/dm/src/products/mixins.py",
+		"/Users/jmitch/Desktop/dm/src/templates/sellers/product_list_view.html",
+		"/Users/jmitch/Desktop/dm/src/billing/models.py",
+		"/Users/jmitch/Desktop/dm/src/sellers/urls.py",
+		"/Users/jmitch/Desktop/dm/src/templates/sellers/transaction_list.html",
+		"/Users/jmitch/Desktop/dm/src/templates/sellers/transaction_list_view.html",
+		"/Users/jmitch/Desktop/dm/src/products_backup.json",
+		"/Users/jmitch/Desktop/dm/src/billing/admin.py",
+		"/Users/jmitch/Desktop/dm/src/sellers/admin.py",
+		"/Users/jmitch/Desktop/dm/src/products/forms.py",
+		"/Users/jmitch/Desktop/dm/src/templates/checkout/test.html",
+		"/Users/jmitch/Desktop/dm/src/digitalmarket/decorators.py",
+		"/Users/jmitch/Desktop/dm/src/static/js/django.csrf.js",
+		"/Users/jmitch/Desktop/dm/src/templates/tags/tag_detail.html",
+		"/Users/jmitch/Desktop/dm/src/tags/views.py",
+		"/Users/jmitch/Desktop/dm/src/CRUD.md",
+		"/Users/jmitch/Desktop/dm/src/templates/dashboard.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/jmitch/Desktop/ecommerce-2/src",
+			"/Users/jmitch/Dropbox/projects/kpj",
+			"/Users/jmitch/Dropbox/projects/kpj/kpj",
+			"/Users/jmitch/Dropbox/projects/",
+			"/Users/jmitch/Dropbox/projects/kpj/kpj",
+			"<open files>",
+			"/Users/jmitch/Dropbox/projects/kpj/kpj",
+			"/Users/jmitch/Dropbox/projects/kpj",
+			"/Users/jmitch/Dropbox/cfe/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			")",
+			"randint",
+			"randit",
+			"ajax",
+			"get_transactions",
+			"ProductUpdateView",
+			"delete all",
+			"jmitch-#",
+			"AddressSelectFormView",
+			"order_address",
+			"\"",
+			"item_it",
+			"trydjango18",
+			"questions_notification",
+			"app.task",
+			"needs_rep",
+			"sendgrid",
+			"celerybeat-schedule.db",
+			"get_next_lecture",
+			"lecture_quiz_result",
+			"quiz",
+			"url",
+			"reverse",
+			"module-box",
+			"slug",
+			"lang",
+			"send_mail",
+			"get_user",
+			"ppe_4",
+			"as_view",
+			"\"join\"",
+			"saftey",
+			"Saftey Trianing i",
+			"Training on new pesticides prior to first use",
+			"transaction",
+			"render_to",
+			"render_to_pdf",
+			"render_to",
+			"DeleteView",
+			"welcome_",
+			"welcome",
+			"all.html",
+			"$.ajax",
+			"ajax",
+			"wistia",
+			"upload",
+			"review",
+			"review now",
+			"review_chemicals",
+			"lectures_admin",
+			"upload_bulk",
+			"ChemicalsViewAdmin",
+			"filter(active=F",
+			"active",
+			"LectureQuizAdminView",
+			"formview",
+			"$.ajax",
+			"ajax",
+			"clean",
+			"keep",
+			"questionanswer",
+			"initial",
+			"get_lecture",
+			"slug",
+			"LectureDetailView",
+			"get_lecture",
+			"get_next_lecture",
+			"lecture_quiz",
+			"edit_lecture",
+			"single_lecture",
+			"single",
+			"form.as",
+			"question.as",
+			"question",
+			"method",
+			"csv",
+			"ceu",
+			"login",
+			"easy",
+			"grand",
+			"pricing",
+			"cost",
+			"paginator",
+			"question",
+			"lecturequestion",
+			"question",
+			"next",
+			"take_quiz",
+			"after ",
+			"href",
+			"take_quiz",
+			"start",
+			"Coding",
+			"Coding For Entrepreneurs",
+			"Coding for Entrepreneurs",
+			"results",
+			"cleaned_email",
+			"class=\"fa fa-check\"",
+			"You are already logged in",
+			"pricing",
+			"login",
+			"PasswordResetForm",
+			"team",
+			"team_id",
+			"user_logged_in",
+			"transcript",
+			"template",
+			"modal",
+			"def __unicode__(self)",
+			"def__unicode__(self)",
+			"check",
+			"chain",
+			"action",
+			"get_model",
+			"team",
+			"DEFAULT_FROM_EMAIL",
+			"PasswordResetForm",
+			"activate",
+			"settings",
+			"request",
+			"reset",
+			"checmicals",
+			"activity",
+			"Pag",
+			"quiz",
+			"middle",
+			"user_logged_in",
+			"create"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"jmitch=#",
+			"'",
+			"ecommerce2",
+			"Control Guidance Solutions, LLC",
+			"class=\"fa fa-check fa-2x\"",
+			"img/apple-touch-icon-152.png",
+			"{})",
+			"render(request,",
+			"render(",
+			")",
+			"render(request,",
+			"Coding For Entrepreneurs",
+			"CodingForEntrepreneurs.com",
+			"Coding For Entrepreneurs",
+			"CodingForEntrepreneurs.com"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/blog/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4956,
+								4956
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2642.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/blog/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1843,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1341,
+								1341
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 192.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/comments/api/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2958,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2436,
+								2436
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1440.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.954954954955,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 136.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"email",
+				"templates/team/email_instructions.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
