@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
 				"us",
 				"user_obj"
 			],
@@ -18,10 +30,6 @@
 			[
 				"C",
 				"CharField"
-			],
-			[
-				"mar",
-				"marks"
 			],
 			[
 				"email",
@@ -506,40 +514,43 @@
 			[
 				"user_check",
 				"user_checkout_id"
-			],
-			[
-				"bra",
-				"braintree_id"
-			],
-			[
-				"dec",
-				"decorators〔module〕"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "src/blog/settings.py",
+			"contents": "\nimport pandas\n\nfrom ggplot import *\n\n\ndef lineplot_compare(hr_by_team_year_sf_la_csv):\n    # Write a function, lineplot_compare, that will read a csv file\n    # called hr_by_team_year_sf_la.csv and plot it using pandas and ggplot.\n    #\n    # This csv file has three columns: yearID, HR, and teamID. The data in the\n    # file gives the total number of home runs hit each year by the SF Giants \n    # (teamID == 'SFN') and the LA Dodgers (teamID == \"LAN\"). Produce a \n    # visualization comparing the total home runs by year of the two teams. \n    # \n    # You can see the data in hr_by_team_year_sf_la_csv\n    # at the link below:\n    # https://s3.amazonaws.com/content.udacity-data.com/courses/ud359/hr_by_team_year_sf_la.csv\n    #\n    # Note that to differentiate between multiple categories on the \n    # same plot in ggplot, we can pass color in with the other arguments\n    # to aes, rather than in our geometry functions. For example, \n    # ggplot(data, aes(xvar, yvar, color=category_var)). This might help you \n    # in this exercise.\n\n    data = pandas.read_csv('hr_by_team_year_sf_la_csv')\n    gg = ggplot(data, aes(yearID, HR, color='teamID')) + geom_point() + geom_line() + ggtitle(\"HR vs team\") + xlab('year') + ylab('HR')\n    return gg\n",
+			"file": "/home/rohit/Desktop/data science/line_charts.py",
+			"file_size": 1258,
+			"file_write_time": 131237856950191969,
 			"settings":
 			{
-				"buffer_size": 5331,
+				"buffer_size": 1254,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/blog/urls.py",
+			"file": "src/templates/base.html",
 			"settings":
 			{
-				"buffer_size": 1843,
+				"buffer_size": 3629,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/comments/api/views.py",
+			"file": "src/templates/comment_thread.html",
 			"settings":
 			{
-				"buffer_size": 2958,
+				"buffer_size": 1544,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/confirm_delete.html",
+			"settings":
+			{
+				"buffer_size": 684,
 				"line_ending": "Unix"
 			}
 		}
@@ -616,15 +627,53 @@
 	],
 	"file_history":
 	[
+		"/home/rohit/Desktop/django_MVP/mvp/newsletter/views.py",
+		"/home/rohit/Desktop/django_MVP/mvp/newsletter/models.py",
+		"/home/rohit/Desktop/django_MVP/mvp/newsletter/__init__.py",
+		"/home/rohit/Desktop/django_MVP/mvp/newsletter/forms.py",
+		"/home/rohit/Desktop/django_MVP/mvp/newsletter/admin.py",
+		"/home/rohit/Desktop/data science/plotting_python.py",
+		"/home/rohit/Desktop/django_MVP/mvp/templates/navbar.html",
+		"/home/rohit/Desktop/django_MVP/mvp/templates/javascript.html",
+		"/home/rohit/Desktop/django_MVP/mvp/templates/home.html",
+		"/home/rohit/Desktop/django_MVP/mvp/mvp/old_settings.py",
+		"/home/rohit/Desktop/django_MVP/mvp/mvp/settings/local.py",
+		"/home/rohit/Desktop/django_MVP/mvp/mvp/settings/production.py",
+		"/home/rohit/Desktop/django_MVP/mvp/templates/head_css.html",
+		"/home/rohit/Desktop/django_MVP/mvp/templates/forms.html",
+		"/home/rohit/Desktop/django_MVP/mvp/templates/base.html",
+		"/home/rohit/Desktop/django_MVP/mvp/templates/about.html",
+		"/home/rohit/Desktop/django_chatterbot/example_app/settings.py",
+		"/home/rohit/Desktop/django_chatterbot/example_app/views.py",
+		"/home/rohit/Desktop/django_chatterbot/example_app/urls.py",
+		"/home/rohit/Desktop/django_chatterbot/example_app/templates/app.html",
+		"/home/rohit/Desktop/django_chatterbot/example_app/wsgi.py",
+		"/home/rohit/Desktop/django_chatterbot/example_app/__init__.py",
+		"/home/rohit/Desktop/Front_end/Resume/resume.css",
+		"/home/rohit/Desktop/Front_end/Resume/resume.html",
+		"/home/rohit/Desktop/Front_end/resume.html",
+		"/home/rohit/Desktop/titanic.py",
+		"/home/rohit/Desktop/video.html",
+		"/home/rohit/Desktop/res.html",
+		"/home/rohit/Desktop/main.css",
+		"/home/rohit/Desktop/django_music/music/templates/music/base.html",
+		"/home/rohit/Desktop/avg_points.py",
+		"/home/rohit/Desktop/pandas.py",
+		"/home/rohit/Desktop/hacktoberfest-2/hello.html",
+		"/home/rohit/Desktop/hacktoberfest-2/hacktoberfest.html",
+		"/home/rohit/Desktop/CSV_download.py",
+		"/home/rohit/Desktop/HacktoberFest/CSV_download.py",
+		"/home/rohit/Desktop/HacktoberFest/calculator.py",
+		"/home/rohit/Desktop/blog-api/src/blog/settings.py",
+		"/home/rohit/Desktop/blog-api/src/comments/api/views.py",
+		"/home/rohit/Desktop/blog-api/src/blog/urls.py",
 		"/home/rohit/Desktop/blog-api/src/accounts/api/views.py",
 		"/home/rohit/Desktop/blog-api/src/posts/api/serializers.py",
 		"/home/rohit/Desktop/blog-api/src/comments/api/serializers.py",
 		"/home/rohit/Desktop/blog-api/src/accounts/api/serializers.py",
 		"/home/rohit/Desktop/blog-api/src/accounts/api/urls.py",
 		"/home/rohit/Desktop/blog-api/src/posts/api/views.py",
-		"/home/rohit/Desktop/blog-api/src/comments/api/views.py",
 		"/home/rohit/Desktop/blog-api/src/comments/api/urls.py",
-		"/home/rohit/Desktop/blog-api/src/blog/urls.py",
 		"/home/rohit/Desktop/resume.html",
 		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rohit_yadav/HCF.py",
 		"/home/rohit/Desktop/HCF.py",
@@ -660,7 +709,6 @@
 		"/home/rohit/Desktop/hack2.py",
 		"/home/rohit/Desktop/blog-api/src/comments/api/__init__.py",
 		"/home/rohit/Desktop/blog-api/src/posts/api/urls.py",
-		"/home/rohit/Desktop/blog-api/src/blog/settings.py",
 		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/binaryParser/settings.py",
 		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/binaryParser/urls.py",
 		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/ParseApp/urls.py",
@@ -706,44 +754,7 @@
 		"/Users/jmitch/Desktop/dm/src/sellers/forms.py",
 		"/Users/jmitch/Desktop/dm/src/templates/base.html",
 		"/Users/jmitch/Desktop/dm/src/digitalmarket/mixins.py",
-		"/Users/jmitch/Desktop/dm/src/templates/products/product_list_snippet.html",
-		"/Users/jmitch/Desktop/dm/src/templates/products/library_list.html",
-		"/Users/jmitch/Desktop/dm/src/products/urls.py",
-		"/Users/jmitch/Desktop/dm/src/templates/products/product_detail.html",
-		"/Users/jmitch/Desktop/dm/src/templates/products/product_list.html",
-		"/Users/jmitch/Desktop/dm/src/products/tests.py",
-		"/Users/jmitch/Desktop/dm/src/products/admin.py",
-		"/Users/jmitch/Desktop/dm/src/sellers/models.py",
-		"/Users/jmitch/Desktop/dm/src/products/models.py",
-		"/Users/jmitch/Desktop/dm/src/templates/dashboard/view.html",
-		"/Users/jmitch/Desktop/dm/src/dashboard/views.py",
-		"/Users/jmitch/Desktop/dm/README.md",
-		"/Users/jmitch/Desktop/dm/src/digitalmarket/urls.py",
-		"/Users/jmitch/Desktop/dm/src/sellers/views.py",
-		"/Users/jmitch/Desktop/dm/src/checkout/views.py",
-		"/Users/jmitch/Desktop/dm.md",
-		"/Users/jmitch/Desktop/dm/src/digitalmarket/settings.py",
-		"/Users/jmitch/Desktop/dm/LICENSE",
-		"/Users/jmitch/Desktop/dm/src/templates/sellers/dashboard.html",
-		"/Users/jmitch/Desktop/dm/src/sellers/mixins.py",
-		"/Users/jmitch/Desktop/dm/src/analytics/models.py",
-		"/Users/jmitch/Desktop/dm/src/products/mixins.py",
-		"/Users/jmitch/Desktop/dm/src/templates/sellers/product_list_view.html",
-		"/Users/jmitch/Desktop/dm/src/billing/models.py",
-		"/Users/jmitch/Desktop/dm/src/sellers/urls.py",
-		"/Users/jmitch/Desktop/dm/src/templates/sellers/transaction_list.html",
-		"/Users/jmitch/Desktop/dm/src/templates/sellers/transaction_list_view.html",
-		"/Users/jmitch/Desktop/dm/src/products_backup.json",
-		"/Users/jmitch/Desktop/dm/src/billing/admin.py",
-		"/Users/jmitch/Desktop/dm/src/sellers/admin.py",
-		"/Users/jmitch/Desktop/dm/src/products/forms.py",
-		"/Users/jmitch/Desktop/dm/src/templates/checkout/test.html",
-		"/Users/jmitch/Desktop/dm/src/digitalmarket/decorators.py",
-		"/Users/jmitch/Desktop/dm/src/static/js/django.csrf.js",
-		"/Users/jmitch/Desktop/dm/src/templates/tags/tag_detail.html",
-		"/Users/jmitch/Desktop/dm/src/tags/views.py",
-		"/Users/jmitch/Desktop/dm/src/CRUD.md",
-		"/Users/jmitch/Desktop/dm/src/templates/dashboard.html"
+		"/Users/jmitch/Desktop/dm/src/templates/products/product_list_snippet.html"
 	],
 	"find":
 	{
@@ -770,6 +781,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"if",
+			"iframe",
 			")",
 			"randint",
 			"randit",
@@ -895,9 +908,7 @@
 			"activity",
 			"Pag",
 			"quiz",
-			"middle",
-			"user_logged_in",
-			"create"
+			"middle"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -930,64 +941,68 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "src/blog/settings.py",
+					"file": "/home/rohit/Desktop/data science/line_charts.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5331,
+						"buffer_size": 1254,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4956,
-								4956
+								1254,
+								1254
 							]
 						],
 						"settings":
 						{
+							"auto_name": "",
 							"syntax": "Packages/Python/Python.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2642.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "src/blog/urls.py",
+					"file": "src/templates/base.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1843,
+						"buffer_size": 3629,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1341,
-								1341
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 192.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -995,38 +1010,60 @@
 				},
 				{
 					"buffer": 2,
-					"file": "src/comments/api/views.py",
+					"file": "src/templates/comment_thread.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2958,
+						"buffer_size": 1544,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2436,
-								2436
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1440.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/templates/confirm_delete.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 684,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
 				}
-			]
-		},
-		{
-			"sheets":
-			[
 			]
 		}
 	],
@@ -1058,7 +1095,7 @@
 		"cols":
 		[
 			0.0,
-			0.954954954955,
+			0.0520179372201,
 			1.0
 		],
 		"rows":
@@ -1110,7 +1147,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
@@ -1118,7 +1155,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 211.0,
+	"side_bar_width": 206.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
