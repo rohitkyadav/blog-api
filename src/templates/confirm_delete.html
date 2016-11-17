@@ -12,7 +12,6 @@
 
 <div class='col-sm-6 col-sm-offset-3'>
 	<h1>Confirm Delete</h1>
-        
 	<form method="POST" action="."> {% csrf_token %}
 		<p>A re you sure you want to delete: "{{ object.content }}"?</p>
 		<input type='submit' value='Confirm' class='btn btn-warning'>
