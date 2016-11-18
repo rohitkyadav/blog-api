@@ -520,17 +520,6 @@
 	"buffers":
 	[
 		{
-			"contents": "\nimport pandas\n\nfrom ggplot import *\n\n\ndef lineplot_compare(hr_by_team_year_sf_la_csv):\n    # Write a function, lineplot_compare, that will read a csv file\n    # called hr_by_team_year_sf_la.csv and plot it using pandas and ggplot.\n    #\n    # This csv file has three columns: yearID, HR, and teamID. The data in the\n    # file gives the total number of home runs hit each year by the SF Giants \n    # (teamID == 'SFN') and the LA Dodgers (teamID == \"LAN\"). Produce a \n    # visualization comparing the total home runs by year of the two teams. \n    # \n    # You can see the data in hr_by_team_year_sf_la_csv\n    # at the link below:\n    # https://s3.amazonaws.com/content.udacity-data.com/courses/ud359/hr_by_team_year_sf_la.csv\n    #\n    # Note that to differentiate between multiple categories on the \n    # same plot in ggplot, we can pass color in with the other arguments\n    # to aes, rather than in our geometry functions. For example, \n    # ggplot(data, aes(xvar, yvar, color=category_var)). This might help you \n    # in this exercise.\n\n    data = pandas.read_csv('hr_by_team_year_sf_la_csv')\n    gg = ggplot(data, aes(yearID, HR, color='teamID')) + geom_point() + geom_line() + ggtitle(\"HR vs team\") + xlab('year') + ylab('HR')\n    return gg\n",
-			"file": "/home/rohit/Desktop/data science/line_charts.py",
-			"file_size": 1258,
-			"file_write_time": 131237856950191969,
-			"settings":
-			{
-				"buffer_size": 1254,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "src/templates/base.html",
 			"settings":
 			{
@@ -550,7 +539,15 @@
 			"file": "src/templates/confirm_delete.html",
 			"settings":
 			{
-				"buffer_size": 684,
+				"buffer_size": 557,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/form.html",
+			"settings":
+			{
+				"buffer_size": 344,
 				"line_ending": "Unix"
 			}
 		}
@@ -627,6 +624,8 @@
 	],
 	"file_history":
 	[
+		"/home/rohit/Desktop/data science/line_charts.py",
+		"/home/rohit/Desktop/blog-api/src/templates/confirm_delete.html",
 		"/home/rohit/Desktop/django_MVP/mvp/newsletter/views.py",
 		"/home/rohit/Desktop/django_MVP/mvp/newsletter/models.py",
 		"/home/rohit/Desktop/django_MVP/mvp/newsletter/__init__.py",
@@ -752,9 +751,7 @@
 		"/Users/jmitch/Desktop/dm/src/templates/form.html",
 		"/Users/jmitch/Desktop/dm/src/templates/form_include.html",
 		"/Users/jmitch/Desktop/dm/src/sellers/forms.py",
-		"/Users/jmitch/Desktop/dm/src/templates/base.html",
-		"/Users/jmitch/Desktop/dm/src/digitalmarket/mixins.py",
-		"/Users/jmitch/Desktop/dm/src/templates/products/product_list_snippet.html"
+		"/Users/jmitch/Desktop/dm/src/templates/base.html"
 	],
 	"find":
 	{
@@ -781,6 +778,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"div",
 			"if",
 			"iframe",
 			")",
@@ -907,8 +905,7 @@
 			"checmicals",
 			"activity",
 			"Pag",
-			"quiz",
-			"middle"
+			"quiz"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -946,42 +943,11 @@
 			]
 		},
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/home/rohit/Desktop/data science/line_charts.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1254,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1254,
-								1254
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "src/templates/base.html",
 					"semi_transient": false,
 					"settings":
@@ -1002,14 +968,14 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 96.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "src/templates/comment_thread.html",
 					"semi_transient": false,
 					"settings":
@@ -1037,12 +1003,12 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 2,
 					"file": "src/templates/confirm_delete.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 684,
+						"buffer_size": 557,
 						"regions":
 						{
 						},
@@ -1061,7 +1027,35 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/templates/form.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
