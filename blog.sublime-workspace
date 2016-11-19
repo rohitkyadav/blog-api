@@ -519,14 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "src/templates/base.html",
-			"settings":
-			{
-				"buffer_size": 3787,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -600,11 +592,14 @@
 	],
 	"file_history":
 	[
+		"/home/rohit/Desktop/blog-api/src/templates/post_detail.html",
+		"/home/rohit/Desktop/blog-api/src/templates/messages_display.html",
+		"/home/rohit/Desktop/blog-api/src/templates/form.html",
+		"/home/rohit/Desktop/blog-api/src/templates/base.html",
 		"/home/rohit/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 		"/home/rohit/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
 		"/home/rohit/Desktop/blog-api/src/templates/comment_thread.html",
 		"/home/rohit/Desktop/blog-api/src/templates/confirm_delete.html",
-		"/home/rohit/Desktop/blog-api/src/templates/form.html",
 		"/home/rohit/Desktop/data science/line_charts.py",
 		"/home/rohit/Desktop/django_MVP/mvp/newsletter/views.py",
 		"/home/rohit/Desktop/django_MVP/mvp/newsletter/models.py",
@@ -724,10 +719,7 @@
 		"/Users/jmitch/Desktop/blog/src/blog/urls.py",
 		"/Users/jmitch/Desktop/blog/src/blog/settings.py",
 		"/Users/jmitch/Desktop/blog/src/db.sqlite3",
-		"/Users/jmitch/Desktop/blog/src/blog/wsgi.py",
-		"/Users/jmitch/Desktop/blog/README.md",
-		"/Users/jmitch/Desktop/dm/src/products/views.py",
-		"/Users/jmitch/Desktop/dm/src/templates/form.html"
+		"/Users/jmitch/Desktop/blog/src/blog/wsgi.py"
 	],
 	"find":
 	{
@@ -919,37 +911,8 @@
 			]
 		},
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "src/templates/base.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3787,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3767,
-								3767
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1836.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
