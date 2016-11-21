@@ -520,42 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "src/posts/api/pagination.py",
+			"file": "src/posts/templatetags/urlify.py",
 			"settings":
 			{
-				"buffer_size": 254,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/posts/api/permissions.py",
-			"settings":
-			{
-				"buffer_size": 457,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/posts/api/serializers.py",
-			"settings":
-			{
-				"buffer_size": 1538,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/posts/api/urls.py",
-			"settings":
-			{
-				"buffer_size": 630,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/posts/api/views.py",
-			"settings":
-			{
-				"buffer_size": 2121,
+				"buffer_size": 266,
 				"line_ending": "Unix"
 			}
 		}
@@ -632,6 +600,11 @@
 	],
 	"file_history":
 	[
+		"/home/rohit/Desktop/blog-api/src/posts/api/pagination.py",
+		"/home/rohit/Desktop/blog-api/src/posts/api/permissions.py",
+		"/home/rohit/Desktop/blog-api/src/posts/api/serializers.py",
+		"/home/rohit/Desktop/blog-api/src/posts/api/urls.py",
+		"/home/rohit/Desktop/blog-api/src/posts/api/views.py",
 		"/home/rohit/Desktop/blog-api/src/templates/post_list.html",
 		"/home/rohit/Desktop/blog-api/src/templates/confirm_delete.html",
 		"/home/rohit/Desktop/blog-api/src/templates/form.html",
@@ -684,11 +657,9 @@
 		"/home/rohit/Desktop/blog-api/src/comments/api/views.py",
 		"/home/rohit/Desktop/blog-api/src/blog/urls.py",
 		"/home/rohit/Desktop/blog-api/src/accounts/api/views.py",
-		"/home/rohit/Desktop/blog-api/src/posts/api/serializers.py",
 		"/home/rohit/Desktop/blog-api/src/comments/api/serializers.py",
 		"/home/rohit/Desktop/blog-api/src/accounts/api/serializers.py",
 		"/home/rohit/Desktop/blog-api/src/accounts/api/urls.py",
-		"/home/rohit/Desktop/blog-api/src/posts/api/views.py",
 		"/home/rohit/Desktop/blog-api/src/comments/api/urls.py",
 		"/home/rohit/Desktop/resume.html",
 		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rohit_yadav/HCF.py",
@@ -708,7 +679,6 @@
 		"/home/rohit/Desktop/fibo.py",
 		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rishabh_jindal/prog-2.py",
 		"/home/rohit/Desktop/blog-api/src/accounts/api/__init__.py",
-		"/home/rohit/Desktop/blog-api/src/posts/api/pagination.py",
 		"/home/rohit/Desktop/blog-api/src/comments/models.py",
 		"/home/rohit/Desktop/blog-api/src/posts/models.py",
 		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rishabh_jindal/prog1.py",
@@ -718,13 +688,11 @@
 		"/home/rohit/Desktop/insta.py",
 		"/home/rohit/Desktop/body.css",
 		"/home/rohit/Desktop/per.py",
-		"/home/rohit/Desktop/blog-api/src/posts/api/permissions.py",
 		"/home/rohit/Desktop/scraping.py",
 		"/home/rohit/Desktop/hack.py",
 		"/home/rohit/Desktop/shh.sh",
 		"/home/rohit/Desktop/hack2.py",
 		"/home/rohit/Desktop/blog-api/src/comments/api/__init__.py",
-		"/home/rohit/Desktop/blog-api/src/posts/api/urls.py",
 		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/binaryParser/settings.py",
 		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/binaryParser/urls.py",
 		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/ParseApp/urls.py",
@@ -951,136 +919,24 @@
 			]
 		},
 		{
-			"selected": 4,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "src/posts/api/pagination.py",
+					"file": "src/posts/templatetags/urlify.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 254,
+						"buffer_size": 266,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "src/posts/api/permissions.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 457,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "src/posts/api/serializers.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1538,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "src/posts/api/urls.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 630,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "src/posts/api/views.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2121,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
+								141,
+								141
 							]
 						],
 						"settings":

@@ -8,7 +8,6 @@ try:
 except: 
     pass
 
-
 from django import template
 
 register = template.Library()
