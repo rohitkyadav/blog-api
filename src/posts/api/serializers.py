@@ -23,7 +23,7 @@ class PostCreateUpdateSerializer(ModelSerializer):
 
 post_detail_url = HyperlinkedIdentityField(
 		view_name = 'posts-api:detail',
-		lookup_field = 'slug'
+		lookup_field = 'slug',
 		)
 
 
@@ -59,8 +59,8 @@ class PostDetailSerializer(ModelSerializer):
 		return image
 
 	def get_comments(self, obj):
-#		content_type = obj.get_content_type
-#		object_id = obj.id
+		#content_type = obj.get_content_type
+		#object_id = obj.id
 		c_qs = Comment.objects.filter_by_instance(obj)
 		comments = CommentSerializer(c_qs, many=True).data
 		return comments
