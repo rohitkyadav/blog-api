@@ -519,14 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "src/posts/templatetags/urlify.py",
-			"settings":
-			{
-				"buffer_size": 266,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -600,6 +592,8 @@
 	],
 	"file_history":
 	[
+		"/home/rohit/Desktop/blog-api/src/posts/admin.py",
+		"/home/rohit/Desktop/blog-api/src/posts/templatetags/urlify.py",
 		"/home/rohit/Desktop/blog-api/src/posts/api/pagination.py",
 		"/home/rohit/Desktop/blog-api/src/posts/api/permissions.py",
 		"/home/rohit/Desktop/blog-api/src/posts/api/serializers.py",
@@ -725,9 +719,7 @@
 		"/Users/cfe/Desktop/blog/src/blog/settings.py",
 		"/Users/cfe/Desktop/blog/src/comments/admin.py",
 		"/Users/cfe/Desktop/blog/static_cdn/css/base.css",
-		"/Users/cfe/Desktop/blog/src/templates/post_form.html",
-		"/Users/jmitch/Desktop/blog/src/blog/urls.py",
-		"/Users/jmitch/Desktop/blog/src/blog/settings.py"
+		"/Users/cfe/Desktop/blog/src/templates/post_form.html"
 	],
 	"find":
 	{
@@ -919,37 +911,8 @@
 			]
 		},
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "src/posts/templatetags/urlify.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 266,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								141,
-								141
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
