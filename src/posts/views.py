@@ -69,7 +69,6 @@ def post_detail(request, slug=None):
 			if parent_qs.exists() and parent_qs.count() == 1:
 				parent_obj = parent_qs.first()
 
-
 		new_comment, created = Comment.objects.get_or_create(
 							user = request.user,
 							content_type= content_type,
@@ -78,7 +77,6 @@ def post_detail(request, slug=None):
 							parent = parent_obj,
 						)
 		return HttpResponseRedirect(new_comment.content_object.get_absolute_url())
-
 
 	comments = instance.comments
 	context = {
@@ -125,10 +123,6 @@ def post_list(request):
 	}
 	return render(request, "post_list.html", context)
 
-
-
-
-
 def post_update(request, slug=None):
 	if not request.user.is_staff or not request.user.is_superuser:
 		raise Http404
@@ -146,8 +140,6 @@ def post_update(request, slug=None):
 		"form":form,
 	}
 	return render(request, "post_form.html", context)
-
-
 
 def post_delete(request, slug=None):
 	if not request.user.is_staff or not request.user.is_superuser:
