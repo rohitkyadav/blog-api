@@ -4,8 +4,6 @@ import re
 
 from django.utils.html import strip_tags
 
-
-
 def count_words(html_string):
     # html_string = """
     # <h1>This is a title</h1>
@@ -14,7 +12,6 @@ def count_words(html_string):
     matching_words = re.findall(r'\w+', word_string)
     count = len(matching_words) #joincfe.com/projects/
     return count
-
 
 def get_read_time(html_string):
     count = count_words(html_string)
