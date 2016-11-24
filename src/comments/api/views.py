@@ -27,7 +27,6 @@ from posts.api.pagination import PostLimitOffsetPagination, PostPageNumberPagina
 
 from comments.models import Comment
 
-
 from .serializers import  (
 	CommentListSerializer,
 	CommentDetailSerializer,
@@ -50,16 +49,13 @@ class CommentCreateAPIView(CreateAPIView):
 			user=self.request.user
 			)
 
-
 #	def perform_create(self, serializer):
 #		serializer.save(user = self.request.user)
-
 
 #class CommentEditAPIView(RetrieveAPIView):
 #	queryset = Comment.objects.all()
 #	serializer_class = CommentDetailSerializer
 #	lookup_field = 'pk'
-
 
 class CommentDetailAPIView(DestroyModelMixin, UpdateModelMixin, RetrieveAPIView):
 	queryset = Comment.objects.filter(id__gte=0)
@@ -71,8 +67,6 @@ class CommentDetailAPIView(DestroyModelMixin, UpdateModelMixin, RetrieveAPIView)
 
 	def delete(self, request, *args, **kwargs):
 		return self.destroy(request, *args, **kwargs)
-
-
 
 #class PostUpdateAPIView(RetrieveUpdateAPIView):
 #	queryset = Post.objects.all()
@@ -89,7 +83,6 @@ class CommentDetailAPIView(DestroyModelMixin, UpdateModelMixin, RetrieveAPIView)
 #	lookup_field = 'slug'
 #	permission_classes = [IsAuthenticatedOrReadOnly, IsOwnerOrReadOnly]
 	
-
 class CommentListAPIView(ListAPIView):
 	serializer_class = CommentListSerializer
 	#permission_classes = [AllowAny]
@@ -108,4 +101,3 @@ class CommentListAPIView(ListAPIView):
 				Q(user__last_name__icontains=query)
 				).distinct()
 		return queryset_list
-
