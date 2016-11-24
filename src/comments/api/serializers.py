@@ -80,8 +80,6 @@ class CommentSerializer(ModelSerializer):
 			return obj.children().count()
 		return 0
 
-
-
 class CommentListSerializer(ModelSerializer):
 	url = HyperlinkedIdentityField(
 		view_name = 'comments-api:thread'
