@@ -519,30 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "src/comments/tests.py",
-			"settings":
-			{
-				"buffer_size": 60,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/comments/urls.py",
-			"settings":
-			{
-				"buffer_size": 278,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/comments/views.py",
-			"settings":
-			{
-				"buffer_size": 2964,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -616,6 +592,9 @@
 	],
 	"file_history":
 	[
+		"/home/rohit/Desktop/blog-api/src/comments/views.py",
+		"/home/rohit/Desktop/blog-api/src/comments/urls.py",
+		"/home/rohit/Desktop/blog-api/src/comments/tests.py",
 		"/home/rohit/Desktop/blog-api/src/comments/models.py",
 		"/home/rohit/Desktop/blog-api/src/comments/admin.py",
 		"/home/rohit/Desktop/blog-api/src/comments/apps.py",
@@ -740,10 +719,7 @@
 		"/home/rohit/Desktop/out",
 		"/home/rohit/Desktop/writer.py",
 		"/home/rohit/Desktop/blog-api/src/posts/api/__init__.py",
-		"/Users/cfe/Desktop/blog/src/posts/models.py",
-		"/Users/cfe/Desktop/blog/src/posts/utils.py",
-		"/Users/cfe/Desktop/blog/src/posts/views.py",
-		"/Users/cfe/Desktop/blog/src/comments/forms.py"
+		"/Users/cfe/Desktop/blog/src/posts/models.py"
 	],
 	"find":
 	{
@@ -935,93 +911,8 @@
 			]
 		},
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "src/comments/tests.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 60,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "src/comments/urls.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 278,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "src/comments/views.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2964,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
