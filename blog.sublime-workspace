@@ -519,15 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/home/rohit/Desktop/geek.py",
-			"settings":
-			{
-				"buffer_size": 510,
-				"line_ending": "Unix",
-				"name": "def name():"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -601,6 +592,10 @@
 	],
 	"file_history":
 	[
+		"/home/rohit/Desktop/blog-api/src/blog/settings.py",
+		"/home/rohit/Desktop/blog-api/src/blog/urls.py",
+		"/home/rohit/Desktop/blog-api/src/blog/wsgi.py",
+		"/home/rohit/Desktop/geek.py",
 		"/home/rohit/Desktop/blog-api/src/comments/views.py",
 		"/home/rohit/Desktop/blog-api/src/comments/urls.py",
 		"/home/rohit/Desktop/blog-api/src/comments/tests.py",
@@ -683,8 +678,6 @@
 		"/home/rohit/Desktop/CSV_download.py",
 		"/home/rohit/Desktop/HacktoberFest/CSV_download.py",
 		"/home/rohit/Desktop/HacktoberFest/calculator.py",
-		"/home/rohit/Desktop/blog-api/src/blog/settings.py",
-		"/home/rohit/Desktop/blog-api/src/blog/urls.py",
 		"/home/rohit/Desktop/blog-api/src/accounts/api/views.py",
 		"/home/rohit/Desktop/blog-api/src/accounts/api/serializers.py",
 		"/home/rohit/Desktop/blog-api/src/accounts/api/urls.py",
@@ -726,9 +719,7 @@
 		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/ParseApp/admin.py",
 		"/home/rohit/Desktop/fun.py",
 		"/home/rohit/Desktop/out",
-		"/home/rohit/Desktop/writer.py",
-		"/home/rohit/Desktop/blog-api/src/posts/api/__init__.py",
-		"/Users/cfe/Desktop/blog/src/posts/models.py"
+		"/home/rohit/Desktop/writer.py"
 	],
 	"find":
 	{
@@ -920,38 +911,8 @@
 			]
 		},
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/home/rohit/Desktop/geek.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 510,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								510,
-								510
-							]
-						],
-						"settings":
-						{
-							"auto_name": "def name():",
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 558.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
