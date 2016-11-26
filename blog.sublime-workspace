@@ -519,6 +519,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/home/rohit/Desktop/geek.py",
+			"settings":
+			{
+				"buffer_size": 510,
+				"line_ending": "Unix",
+				"name": "def name():"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -911,8 +920,38 @@
 			]
 		},
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/home/rohit/Desktop/geek.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 510,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								510,
+								510
+							]
+						],
+						"settings":
+						{
+							"auto_name": "def name():",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 558.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
