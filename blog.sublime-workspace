@@ -592,11 +592,15 @@
 	],
 	"file_history":
 	[
-		"/home/rohit/Desktop/blog-api/src/blog/settings.py",
+		"/home/rohit/Desktop/blog-api/src/accounts/api/serializers.py",
+		"/home/rohit/Desktop/blog-api/src/accounts/api/urls.py",
+		"/home/rohit/Desktop/blog-api/src/accounts/api/views.py",
+		"/home/rohit/Desktop/blog-api/src/comments/views.py",
 		"/home/rohit/Desktop/blog-api/src/blog/urls.py",
+		"/home/rohit/Desktop/blog-api/src/blog/settings.py",
+		"/home/rohit/Desktop/Pillow/Pillow.py",
 		"/home/rohit/Desktop/blog-api/src/blog/wsgi.py",
 		"/home/rohit/Desktop/geek.py",
-		"/home/rohit/Desktop/blog-api/src/comments/views.py",
 		"/home/rohit/Desktop/blog-api/src/comments/urls.py",
 		"/home/rohit/Desktop/blog-api/src/comments/tests.py",
 		"/home/rohit/Desktop/blog-api/src/comments/models.py",
@@ -678,9 +682,6 @@
 		"/home/rohit/Desktop/CSV_download.py",
 		"/home/rohit/Desktop/HacktoberFest/CSV_download.py",
 		"/home/rohit/Desktop/HacktoberFest/calculator.py",
-		"/home/rohit/Desktop/blog-api/src/accounts/api/views.py",
-		"/home/rohit/Desktop/blog-api/src/accounts/api/serializers.py",
-		"/home/rohit/Desktop/blog-api/src/accounts/api/urls.py",
 		"/home/rohit/Desktop/resume.html",
 		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rohit_yadav/HCF.py",
 		"/home/rohit/Desktop/HCF.py",
@@ -718,8 +719,7 @@
 		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/ParseApp/models.py",
 		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/ParseApp/admin.py",
 		"/home/rohit/Desktop/fun.py",
-		"/home/rohit/Desktop/out",
-		"/home/rohit/Desktop/writer.py"
+		"/home/rohit/Desktop/out"
 	],
 	"find":
 	{

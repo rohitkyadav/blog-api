@@ -12,7 +12,6 @@ from rest_framework.serializers import (
 	ValidationError,
 	)
 
-
 User = get_user_model()
 
 class UserDetailSerializer(ModelSerializer):
