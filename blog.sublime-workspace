@@ -519,6 +519,30 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "src/accounts/admin.py",
+			"settings":
+			{
+				"buffer_size": 63,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/accounts/apps.py",
+			"settings":
+			{
+				"buffer_size": 91,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/accounts/forms.py",
+			"settings":
+			{
+				"buffer_size": 2310,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -911,8 +935,93 @@
 			]
 		},
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/accounts/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 63,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/accounts/apps.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 91,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/accounts/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
