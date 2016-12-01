@@ -519,30 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "src/accounts/admin.py",
-			"settings":
-			{
-				"buffer_size": 63,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/accounts/apps.py",
-			"settings":
-			{
-				"buffer_size": 91,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/accounts/forms.py",
-			"settings":
-			{
-				"buffer_size": 2310,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -616,6 +592,9 @@
 	],
 	"file_history":
 	[
+		"/home/rohit/Desktop/blog-api/src/accounts/forms.py",
+		"/home/rohit/Desktop/blog-api/src/accounts/apps.py",
+		"/home/rohit/Desktop/blog-api/src/accounts/admin.py",
 		"/home/rohit/Desktop/blog-api/src/accounts/api/serializers.py",
 		"/home/rohit/Desktop/blog-api/src/accounts/api/urls.py",
 		"/home/rohit/Desktop/blog-api/src/accounts/api/views.py",
@@ -740,10 +719,7 @@
 		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/binaryParser/urls.py",
 		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/ParseApp/urls.py",
 		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/ParseApp/views.py",
-		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/ParseApp/models.py",
-		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/ParseApp/admin.py",
-		"/home/rohit/Desktop/fun.py",
-		"/home/rohit/Desktop/out"
+		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/ParseApp/models.py"
 	],
 	"find":
 	{
@@ -935,93 +911,8 @@
 			]
 		},
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "src/accounts/admin.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 63,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "src/accounts/apps.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 91,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "src/accounts/forms.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2310,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
