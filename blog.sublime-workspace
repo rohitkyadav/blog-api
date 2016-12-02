@@ -519,6 +519,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "src/accounts/views.py",
+			"settings":
+			{
+				"buffer_size": 1298,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -592,6 +600,8 @@
 	],
 	"file_history":
 	[
+		"/home/rohit/Desktop/blog-api/src/accounts/tests.py",
+		"/home/rohit/Desktop/blog-api/src/accounts/models.py",
 		"/home/rohit/Desktop/blog-api/src/accounts/forms.py",
 		"/home/rohit/Desktop/blog-api/src/accounts/apps.py",
 		"/home/rohit/Desktop/blog-api/src/accounts/admin.py",
@@ -717,9 +727,7 @@
 		"/home/rohit/Desktop/blog-api/src/comments/api/__init__.py",
 		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/binaryParser/settings.py",
 		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/binaryParser/urls.py",
-		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/ParseApp/urls.py",
-		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/ParseApp/views.py",
-		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/ParseApp/models.py"
+		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/ParseApp/urls.py"
 	],
 	"find":
 	{
@@ -911,8 +919,37 @@
 			]
 		},
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/accounts/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1298,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1188,
+								1188
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 324.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
