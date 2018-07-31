@@ -4,20 +4,112 @@
 		"selected_items":
 		[
 			[
-				"fac",
-				"factorial"
+				"padd",
+				"padding-left"
+			],
+			[
+				"h",
+				"head	Tag"
 			],
 			[
 				"l",
+				"link	Tag"
+			],
+			[
+				"Va",
+				"ValidationError"
+			],
+			[
+				"ph",
+				"phone_no"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"m",
+				"meta	Tag"
+			],
+			[
+				"li",
 				"li	Tag"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"email",
+				"email"
+			],
+			[
+				"bt",
+				"btn-default"
+			],
+			[
+				"r",
+				"retail"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
 			],
 			[
 				"mar",
 				"margin-top"
 			],
 			[
+				"margin",
+				"margin-right"
+			],
+			[
 				"pa",
 				"padding-left"
+			],
+			[
+				"ti",
+				"title	Tag"
+			],
+			[
+				"SI",
+				"SignUpForm"
+			],
+			[
+				"fac",
+				"factorial"
 			],
 			[
 				"us",
@@ -28,16 +120,8 @@
 				"user_obj"
 			],
 			[
-				"h",
-				"HTTP_400_BAD_REQUEST"
-			],
-			[
 				"C",
 				"CharField"
-			],
-			[
-				"email",
-				"email2"
 			],
 			[
 				"em",
@@ -58,10 +142,6 @@
 			[
 				"D",
 				"DestroyModelMixin"
-			],
-			[
-				"r",
-				"request"
 			],
 			[
 				"comment",
@@ -90,10 +170,6 @@
 			[
 				"per",
 				"percentage"
-			],
-			[
-				"s",
-				"status"
 			],
 			[
 				"model",
@@ -438,92 +514,32 @@
 			[
 				"form",
 				"form_valid"
-			],
-			[
-				"slug",
-				"slugify"
-			],
-			[
-				"sug",
-				"slugify"
-			],
-			[
-				"Upda",
-				"UpdateView"
-			],
-			[
-				"Crea",
-				"CreateView"
-			],
-			[
-				"mu",
-				"MultiSlugMixin"
-			],
-			[
-				"Product",
-				"ProductDetailView"
-			],
-			[
-				"ht",
-				"Http404"
-			],
-			[
-				"de",
-				"description"
-			],
-			[
-				"object",
-				"object_id"
-			],
-			[
-				"option",
-				"option1"
-			],
-			[
-				"var",
-				"variation"
-			],
-			[
-				"cat",
-				"categories"
-			],
-			[
-				"cateo",
-				"category"
-			],
-			[
-				"mod",
-				"models"
-			],
-			[
-				"order",
-				"order_id"
-			],
-			[
-				"cus",
-				"customer_id〔variable〕"
-			],
-			[
-				"user_",
-				"user_check_id"
-			],
-			[
-				"custo",
-				"customer_id"
-			],
-			[
-				"User",
-				"UserCheckout〔module〕"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "src/accounts/views.py",
+			"file": "/home/rohit/Desktop/django_MVP/mvp/templates/home.html",
 			"settings":
 			{
-				"buffer_size": 1298,
+				"buffer_size": 5558,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/rohit/Desktop/django_MVP/mvp/templates/navbar.html",
+			"settings":
+			{
+				"buffer_size": 2499,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/rohit/Desktop/django_MVP/mvp/newsletter/views.py",
+			"settings":
+			{
+				"buffer_size": 2269,
 				"line_ending": "Unix"
 			}
 		}
@@ -588,150 +604,144 @@
 	},
 	"expanded_folders":
 	[
-		"/home/rohit/Desktop/blog-api",
-		"/home/rohit/Desktop/blog-api/src",
-		"/home/rohit/Desktop/blog-api/src/accounts",
-		"/home/rohit/Desktop/blog-api/src/accounts/api",
-		"/home/rohit/Desktop/blog-api/src/blog",
-		"/home/rohit/Desktop/blog-api/src/comments",
-		"/home/rohit/Desktop/blog-api/src/comments/api",
-		"/home/rohit/Desktop/blog-api/src/posts",
-		"/home/rohit/Desktop/blog-api/src/posts/api"
+		"/home/rohit/Desktop/django_MVP/mvp",
+		"/home/rohit/Desktop/django_MVP/mvp/static_in_project",
+		"/home/rohit/Desktop/django_MVP/mvp/static_in_project/our_static/img"
 	],
 	"file_history":
 	[
-		"/home/rohit/Desktop/blog-api/src/accounts/tests.py",
-		"/home/rohit/Desktop/blog-api/src/accounts/models.py",
-		"/home/rohit/Desktop/blog-api/src/accounts/forms.py",
-		"/home/rohit/Desktop/blog-api/src/accounts/apps.py",
-		"/home/rohit/Desktop/blog-api/src/accounts/admin.py",
-		"/home/rohit/Desktop/blog-api/src/accounts/api/serializers.py",
-		"/home/rohit/Desktop/blog-api/src/accounts/api/urls.py",
-		"/home/rohit/Desktop/blog-api/src/accounts/api/views.py",
-		"/home/rohit/Desktop/blog-api/src/comments/views.py",
-		"/home/rohit/Desktop/blog-api/src/blog/urls.py",
-		"/home/rohit/Desktop/blog-api/src/blog/settings.py",
-		"/home/rohit/Desktop/Pillow/Pillow.py",
-		"/home/rohit/Desktop/blog-api/src/blog/wsgi.py",
-		"/home/rohit/Desktop/geek.py",
-		"/home/rohit/Desktop/blog-api/src/comments/urls.py",
-		"/home/rohit/Desktop/blog-api/src/comments/tests.py",
-		"/home/rohit/Desktop/blog-api/src/comments/models.py",
-		"/home/rohit/Desktop/blog-api/src/comments/admin.py",
-		"/home/rohit/Desktop/blog-api/src/comments/apps.py",
-		"/home/rohit/Desktop/blog-api/src/comments/forms.py",
-		"/home/rohit/Desktop/blog-api/src/comments/api/serializers.py",
-		"/home/rohit/Desktop/blog-api/src/static/css/base.css",
-		"/home/rohit/Desktop/blog-api/src/comments/api/views.py",
-		"/home/rohit/Desktop/blog-api/src/comments/api/urls.py",
-		"/home/rohit/Desktop/python_code/string_freq.py",
-		"/home/rohit/Desktop/python_code/factorial.py",
-		"/home/rohit/Desktop/python_code/interest.py",
-		"/home/rohit/Desktop/python_code/iter.py",
-		"/home/rohit/Desktop/python_code/per.py",
-		"/home/rohit/Desktop/python_code/array.py",
-		"/home/rohit/Desktop/python_code/check.py",
-		"/home/rohit/Desktop/blog-api/src/posts/admin.py",
-		"/home/rohit/Desktop/blog-api/src/posts/apps.py",
-		"/home/rohit/Desktop/blog-api/src/posts/forms.py",
-		"/home/rohit/Desktop/blog-api/src/posts/models.py",
-		"/home/rohit/Desktop/blog-api/src/posts/tests.py",
-		"/home/rohit/Desktop/blog-api/src/posts/urls.py",
-		"/home/rohit/Desktop/blog-api/src/posts/utils.py",
-		"/home/rohit/Desktop/blog-api/src/posts/views.py",
-		"/home/rohit/Desktop/string_freq.py",
-		"/home/rohit/Desktop/factorial.py",
-		"/home/rohit/Desktop/blog-api/src/posts/templatetags/urlify.py",
-		"/home/rohit/Desktop/blog-api/src/posts/api/pagination.py",
-		"/home/rohit/Desktop/blog-api/src/posts/api/permissions.py",
-		"/home/rohit/Desktop/blog-api/src/posts/api/serializers.py",
-		"/home/rohit/Desktop/blog-api/src/posts/api/urls.py",
-		"/home/rohit/Desktop/blog-api/src/posts/api/views.py",
-		"/home/rohit/Desktop/blog-api/src/templates/post_list.html",
-		"/home/rohit/Desktop/blog-api/src/templates/confirm_delete.html",
-		"/home/rohit/Desktop/blog-api/src/templates/form.html",
-		"/home/rohit/Desktop/blog-api/src/templates/messages_display.html",
-		"/home/rohit/Desktop/blog-api/src/templates/post_form.html",
-		"/home/rohit/Desktop/blog-api/src/templates/post_detail.html",
-		"/home/rohit/Desktop/blog-api/src/templates/base.html",
-		"/home/rohit/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-		"/home/rohit/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
-		"/home/rohit/Desktop/blog-api/src/templates/comment_thread.html",
-		"/home/rohit/Desktop/data science/line_charts.py",
-		"/home/rohit/Desktop/django_MVP/mvp/newsletter/views.py",
-		"/home/rohit/Desktop/django_MVP/mvp/newsletter/models.py",
-		"/home/rohit/Desktop/django_MVP/mvp/newsletter/__init__.py",
-		"/home/rohit/Desktop/django_MVP/mvp/newsletter/forms.py",
-		"/home/rohit/Desktop/django_MVP/mvp/newsletter/admin.py",
-		"/home/rohit/Desktop/data science/plotting_python.py",
-		"/home/rohit/Desktop/django_MVP/mvp/templates/navbar.html",
-		"/home/rohit/Desktop/django_MVP/mvp/templates/javascript.html",
-		"/home/rohit/Desktop/django_MVP/mvp/templates/home.html",
-		"/home/rohit/Desktop/django_MVP/mvp/mvp/old_settings.py",
-		"/home/rohit/Desktop/django_MVP/mvp/mvp/settings/local.py",
-		"/home/rohit/Desktop/django_MVP/mvp/mvp/settings/production.py",
-		"/home/rohit/Desktop/django_MVP/mvp/templates/head_css.html",
-		"/home/rohit/Desktop/django_MVP/mvp/templates/forms.html",
+		"/home/rohit/Desktop/django_MVP/mvp/templates/contact.html",
 		"/home/rohit/Desktop/django_MVP/mvp/templates/base.html",
+		"/home/rohit/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/rohit/Desktop/django_MVP/mvp/mvp/urls.py",
+		"/home/rohit/Desktop/django_MVP/mvp/templates/navbar.html",
+		"/home/rohit/Desktop/django_MVP/mvp/newsletter/views.py",
+		"/home/rohit/Desktop/django_MVP/mvp/templates/home.html",
+		"/home/rohit/Desktop/django_MVP/mvp/templates/head_css.html",
+		"/home/rohit/Desktop/django_MVP/mvp/static_in_project/our_static/css/custom.css",
+		"/home/rohit/Desktop/django_MVP/mvp/static_in_project/our_static/css/navbar-static-top.css",
 		"/home/rohit/Desktop/django_MVP/mvp/templates/about.html",
-		"/home/rohit/Desktop/django_chatterbot/example_app/settings.py",
-		"/home/rohit/Desktop/django_chatterbot/example_app/views.py",
-		"/home/rohit/Desktop/django_chatterbot/example_app/urls.py",
-		"/home/rohit/Desktop/django_chatterbot/example_app/templates/app.html",
-		"/home/rohit/Desktop/django_chatterbot/example_app/wsgi.py",
-		"/home/rohit/Desktop/django_chatterbot/example_app/__init__.py",
-		"/home/rohit/Desktop/Front_end/Resume/resume.css",
-		"/home/rohit/Desktop/Front_end/Resume/resume.html",
-		"/home/rohit/Desktop/Front_end/resume.html",
-		"/home/rohit/Desktop/titanic.py",
-		"/home/rohit/Desktop/video.html",
-		"/home/rohit/Desktop/res.html",
-		"/home/rohit/Desktop/main.css",
-		"/home/rohit/Desktop/django_music/music/templates/music/base.html",
-		"/home/rohit/Desktop/avg_points.py",
-		"/home/rohit/Desktop/pandas.py",
-		"/home/rohit/Desktop/hacktoberfest-2/hello.html",
-		"/home/rohit/Desktop/hacktoberfest-2/hacktoberfest.html",
-		"/home/rohit/Desktop/CSV_download.py",
-		"/home/rohit/Desktop/HacktoberFest/CSV_download.py",
-		"/home/rohit/Desktop/HacktoberFest/calculator.py",
-		"/home/rohit/Desktop/resume.html",
-		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rohit_yadav/HCF.py",
-		"/home/rohit/Desktop/HCF.py",
-		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rohit_yadav/pass_q2.py",
-		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rohit_yadav/marks_q1.py",
-		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rohit_yadav/linear_binary.py",
-		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rohit_yadav/fibo.py",
-		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rohit_yadav/diamond.py",
-		"/home/rohit/Desktop/pass_q2.py",
-		"/home/rohit/Desktop/marks.py",
-		"/home/rohit/Desktop/pass.py",
-		"/home/rohit/Desktop/lol.py",
-		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rishabh_jindal/prog-3.py",
-		"/home/rohit/Desktop/Dev.py/Week 1/Student Submissions/sahil_chopra/hello1.py",
-		"/home/rohit/Desktop/diamond.py",
-		"/home/rohit/Desktop/fibo.py",
-		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rishabh_jindal/prog-2.py",
-		"/home/rohit/Desktop/blog-api/src/accounts/api/__init__.py",
-		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rishabh_jindal/prog1.py",
-		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rishabh_jindal/prog-4.py",
-		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rishabh_jindal/prog-5.py",
-		"/home/rohit/Desktop/Dev.py/Week 2/Student Submissions/rishabh_jindal/prog-6.py",
-		"/home/rohit/Desktop/insta.py",
-		"/home/rohit/Desktop/body.css",
-		"/home/rohit/Desktop/per.py",
+		"/home/rohit/Desktop/django_MVP/mvp/static_in_project/our_static/css/bootstrap.min.css",
+		"/home/rohit/Desktop/django_MVP/mvp/static_in_project/our_static/img/logo.jpg",
+		"/home/rohit/Desktop/django_MVP/mvp/mvp/old_settings.py",
+		"/home/rohit/Desktop/django_MVP/mvp/templates/registration/login.html",
+		"/home/rohit/Desktop/navbar.html",
+		"/home/rohit/Desktop/project/irenovate/website/views.py",
+		"/home/rohit/Desktop/project/irenovate/irenovate/settings.py",
+		"/home/rohit/Desktop/project/irenovate/irenovate/urls.py",
+		"/home/rohit/Desktop/project/irenovate/templates/home.html",
+		"/home/rohit/Desktop/project/irenovate/website/context_processors.py",
+		"/home/rohit/Desktop/themes.html",
+		"/home/rohit/Desktop/project/irenovate/templates/gallery.html",
+		"/home/rohit/Desktop/project/irenovate/templates/navbar.html",
+		"/home/rohit/Desktop/project/irenovate/templates/ga.html",
+		"/home/rohit/Desktop/project/irenovate/accounts/models.py",
+		"/home/rohit/Desktop/Codechef/two_identical.py",
+		"/home/rohit/Desktop/Codechef/soldier1.py",
+		"/home/rohit/Desktop/Codechef/soldier.py",
+		"/home/rohit/Desktop/Codechef/Receipt.py",
+		"/home/rohit/Desktop/Codechef/N series.py",
+		"/home/rohit/Desktop/Codechef/movie1.py",
+		"/home/rohit/Desktop/Codechef/movie.py",
+		"/home/rohit/Desktop/Codechef/measurement.py",
 		"/home/rohit/Desktop/scraping.py",
-		"/home/rohit/Desktop/hack.py",
-		"/home/rohit/Desktop/shh.sh",
-		"/home/rohit/Desktop/hack2.py",
-		"/home/rohit/Desktop/blog-api/src/comments/api/__init__.py",
-		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/binaryParser/settings.py",
-		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/binaryParser/urls.py",
-		"/home/rohit/Desktop/python-django-server-to-receive-images-from-ios/ParseApp/urls.py"
+		"/home/rohit/Downloads/gallery.html",
+		"/home/rohit/Downloads/antonio.html",
+		"/home/rohit/Desktop/brand.html",
+		"/home/rohit/Desktop/front.js",
+		"/home/rohit/Desktop/front.css",
+		"/home/rohit/Desktop/project/irenovate/templates/copyright.html",
+		"/home/rohit/Desktop/django_MVP/mvp/newsletter/admin.py",
+		"/home/rohit/Desktop/django_MVP/mvp/newsletter/forms.py",
+		"/home/rohit/Desktop/django_MVP/mvp/newsletter/models.py",
+		"/home/rohit/Desktop/project/irenovate/templates/javascript.html",
+		"/home/rohit/Desktop/input.py",
+		"/home/rohit/Desktop/Codechef/chef_game.py",
+		"/home/rohit/Desktop/Codechef/chef_game1.py",
+		"/home/rohit/Desktop/Codechef/chef_way.py",
+		"/home/rohit/Desktop/Codechef/color.py",
+		"/home/rohit/Desktop/Codechef/color1.py",
+		"/home/rohit/Desktop/Codechef/color_room.py",
+		"/home/rohit/Desktop/Codechef/cooking_machine.py",
+		"/home/rohit/Desktop/Codechef/Gregorian_calendar2.py",
+		"/home/rohit/Desktop/Codechef/input.py",
+		"/home/rohit/Desktop/Codechef/Forgotten_language.py",
+		"/home/rohit/Desktop/Codechef/Gregorian_calendar1.py",
+		"/home/rohit/Desktop/project/irenovate/templates/retail.html",
+		"/home/rohit/Desktop/project/irenovate/templates/register.html",
+		"/home/rohit/Desktop/project/irenovate/templates/privacy.html",
+		"/media/rohit/1D8A-1AFF/navbar.html",
+		"/home/rohit/Desktop/Codechef/Gregorian_calendar.py",
+		"/home/rohit/Desktop/project/irenovate/website/models.py",
+		"/home/rohit/Desktop/project/irenovate/website/forms.py",
+		"/home/rohit/Desktop/project/irenovate/website/admin.py",
+		"/home/rohit/Desktop/Codechef/Forgotten_language1.py",
+		"/home/rohit/Desktop/project/irenovate/templates/suris.html",
+		"/home/rohit/Desktop/project/irenovate/templates/yadav.html",
+		"/home/rohit/Desktop/project/irenovate/static_in_project/our_static/img/our_work/snapdeal/snapdeal8.jpg",
+		"/home/rohit/Desktop/project/irenovate/static_in_project/our_static/img/our_work/Suris/suris6.jpg",
+		"/home/rohit/Desktop/project/irenovate/templates/malibu.html",
+		"/home/rohit/Desktop/project/irenovate/templates/david.html",
+		"/home/rohit/Desktop/project/irenovate/templates/terms.html",
+		"/home/rohit/Desktop/project/irenovate/templates/login.html",
+		"/home/rohit/Desktop/project/irenovate/templates/faq.html",
+		"/home/rohit/Desktop/project/irenovate/templates/renovation-consultation.html",
+		"/home/rohit/Desktop/project/irenovate/templates/newcareer.html",
+		"/home/rohit/Desktop/Front_end/3/Index.html",
+		"/home/rohit/Desktop/Codechef/alternate.py",
+		"/home/rohit/Desktop/project/irenovate/templates/contact-us.html",
+		"/home/rohit/Desktop/project/irenovate/templates/career.html",
+		"/home/rohit/Desktop/project/irenovate/templates/multipurpose.html",
+		"/home/rohit/Desktop/templates/home.html",
+		"/home/rohit/Desktop/templates/register.html",
+		"/home/rohit/Desktop/templates/login.html",
+		"/home/rohit/Desktop/Pillow/Pillow.py",
+		"/home/rohit/Project/project/irenovate/templates/contact-us.html",
+		"/home/rohit/Desktop/templates/renovation-consultation.html",
+		"/home/rohit/Desktop/templates/retail.html",
+		"/home/rohit/Desktop/templates/suris.html",
+		"/home/rohit/Desktop/templates/yadav.html",
+		"/home/rohit/Desktop/templates/contact-us.html",
+		"/home/rohit/Desktop/templates/copyright.html",
+		"/home/rohit/Desktop/templates/david.html",
+		"/home/rohit/Desktop/templates/faq.html",
+		"/home/rohit/Desktop/templates/gallery.html",
+		"/home/rohit/Desktop/templates/javascript.html",
+		"/home/rohit/Desktop/templates/malibu.html",
+		"/home/rohit/Desktop/templates/navbar.html",
+		"/home/rohit/Desktop/Advancing/src/accounts/views.py",
+		"/home/rohit/Desktop/Advancing/src/accounts/forms.py",
+		"/home/rohit/Desktop/project/irenovate/accounts/views.py",
+		"/home/rohit/Desktop/project/irenovate/accounts/forms.py",
+		"/home/rohit/Desktop/Advancing/src/blog/urls.py",
+		"/home/rohit/Desktop/Advancing/src/posts/urls.py",
+		"/home/rohit/Desktop/Advancing/src/accounts/tests.py",
+		"/home/rohit/Desktop/Advancing/src/accounts/models.py",
+		"/home/rohit/Desktop/Advancing/src/accounts/admin.py",
+		"/home/rohit/Desktop/project/irenovate/accounts/tests.py",
+		"/home/rohit/Desktop/project/irenovate/accounts/admin.py",
+		"/home/rohit/Desktop/Advancing/src/posts/models.py",
+		"/media/rohit/SONAR/foooter.html",
+		"/media/rohit/SONAR/login.html",
+		"/media/rohit/SONAR/footer.css",
+		"/home/rohit/Desktop/project/irenovate/static_in_project/our_static/img/iren1.png",
+		"/home/rohit/Desktop/project/irenovate/static_in_project/our_static/img/iren.jpg",
+		"/home/rohit/Desktop/project/irenovate/website/tests.py",
+		"/home/rohit/Desktop/project/footer.html",
+		"/home/rohit/Desktop/project/irenovate/static_in_project/our_static/img/logo1.png",
+		"/media/rohit/SONAR/testimonial.html",
+		"/media/rohit/SONAR/testimonial.css",
+		"/home/rohit/Desktop/contact-us.css",
+		"/home/rohit/Desktop/contact-us.html",
+		"/home/rohit/Desktop/Advancing/src/templates/form.html",
+		"/home/rohit/Desktop/Advancing/src/templates/messages_display.html",
+		"/home/rohit/Desktop/project/irenovate/templates/base.html",
+		"/home/rohit/Project/project/irenovate/templates/base.html",
+		"/home/rohit/Desktop/project/irenovate/templates/contact.html"
 	],
 	"find":
 	{
-		"height": 32.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -754,6 +764,56 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"lists",
+			"col-sm-8",
+			"color",
+			"container-fluid",
+			"container",
+			";\"",
+			"<p",
+			"<div",
+			"<p",
+			"<p>",
+			"p",
+			"img",
+			"unique",
+			"include",
+			"%}\n",
+			";\" ",
+			";\"",
+			"image",
+			"full",
+			"full name",
+			"label",
+			"font",
+			";\n",
+			">",
+			"title",
+			">",
+			"src",
+			"red",
+			"head",
+			"form",
+			"IMG",
+			"color",
+			"GREEN",
+			"screen",
+			"multi-level",
+			"social-menu",
+			"social menu",
+			"screen-reader",
+			"error",
+			"content",
+			"thumb",
+			"card",
+			"content",
+			"cards",
+			"social-menu",
+			"footer",
+			"sidebar",
+			"icon",
+			"grey",
+			"red",
 			"div",
 			"if",
 			"iframe",
@@ -831,57 +891,7 @@
 			"form.as",
 			"question.as",
 			"question",
-			"method",
-			"csv",
-			"ceu",
-			"login",
-			"easy",
-			"grand",
-			"pricing",
-			"cost",
-			"paginator",
-			"question",
-			"lecturequestion",
-			"question",
-			"next",
-			"take_quiz",
-			"after ",
-			"href",
-			"take_quiz",
-			"start",
-			"Coding",
-			"Coding For Entrepreneurs",
-			"Coding for Entrepreneurs",
-			"results",
-			"cleaned_email",
-			"class=\"fa fa-check\"",
-			"You are already logged in",
-			"pricing",
-			"login",
-			"PasswordResetForm",
-			"team",
-			"team_id",
-			"user_logged_in",
-			"transcript",
-			"template",
-			"modal",
-			"def __unicode__(self)",
-			"def__unicode__(self)",
-			"check",
-			"chain",
-			"action",
-			"get_model",
-			"team",
-			"DEFAULT_FROM_EMAIL",
-			"PasswordResetForm",
-			"activate",
-			"settings",
-			"request",
-			"reset",
-			"checmicals",
-			"activity",
-			"Pag",
-			"quiz"
+			"method"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -914,40 +924,94 @@
 	"groups":
 	[
 		{
-			"sheets":
-			[
-			]
-		},
-		{
 			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "src/accounts/views.py",
+					"file": "/home/rohit/Desktop/django_MVP/mvp/templates/home.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1298,
+						"buffer_size": 5558,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1188,
-								1188
+								3144,
+								3144
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 324.0,
+						"translation.y": 1026.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/rohit/Desktop/django_MVP/mvp/templates/navbar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1509,
+								1509
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1278.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/rohit/Desktop/django_MVP/mvp/newsletter/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -955,7 +1019,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 25.0
+		"height": 24.0
 	},
 	"input":
 	{
@@ -970,18 +1034,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.0520179372201,
 			1.0
 		],
 		"rows":
@@ -999,7 +1056,7 @@
 	"project": "blog.sublime-project",
 	"replace":
 	{
-		"height": 58.0
+		"height": 44.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1033,7 +1090,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
@@ -1041,7 +1098,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 206.0,
+	"side_bar_width": 174.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
